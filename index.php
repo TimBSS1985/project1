@@ -1,1 +1,1 @@
-<?php echo "welkom" ?>
+<?php echo "welkom jij daar! :)" ?>
