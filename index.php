@@ -1,6 +1,6 @@
 <?php echo "welkom jij daar! :)" ?>
 <?php
-$servername = "localhost";
+$servername = "127.0.0.1";
 $username = "tim";
 $password = "test123";
 
